@@ -24,7 +24,7 @@ If you are using git
 
 `` TERMINAL
 
-git clone https://github.com/juvpengele/inventorys.git
+git clone https://github.com/bigidici/datatable-laravel-livewire-tailwindcss.git
 
 #for updates, simply do
 
@@ -67,7 +67,7 @@ Si vous utiliser git
 
 ```TERMINAL
 
-git clone https://github.com/juvpengele/inventorys.git
+git clone https://github.com/bigidici/datatable-laravel-livewire-tailwindcss.git
 
 #pour les mises a jour, faites simplement
 
